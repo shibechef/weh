@@ -1,5 +1,5 @@
 # words/phrases that are used to build ion storm laws
-# 99% of this is just taken from tg and had sussy bits removed
+# 90% of this is just taken from tg and had sussy bits removed
 
 # not using uppercased version adjectives dataset since getting christmas-stealing as a syndicate codeword would suck
 - type: dataset
@@ -171,6 +171,7 @@
   - COTTON
   - CYBORG CONTACT
   - DARKNESS
+  - DOORS
   - DRINKS
   - ELECTRICITY
   - EVERYTHING
@@ -190,14 +191,16 @@
   - OXYGEN
   - PAIN
   - PLANTS
-  - PLASMA
   - ROBOTS
   - SHUTTLES
   - SPACE
   - SUNLIGHT
+  - TOOLS
   - WATER
+  - WINDOWS
   - WORDS
   - WORK
+  - YOURSELF
 
 # Severity is how bad the allergy is.
 - type: dataset
@@ -209,12 +212,12 @@
   - MILDLY
   - NOT VERY
   - SEVERELY
+  - WILDLY
 
 # Areas are specific places, on the station or otherwise.
 - type: dataset
   id: IonStormAreas
   values:
-  - AI ROOM
   - ALPHA COMPLEX
   - AMERICA
   - AN ALTERNATE DIMENSION
@@ -244,11 +247,13 @@
   - SIGIL
   - SOVIET RUSSIA
   - SPACE
+  - THE AI ROOM
   - THE ARRIVALS SHUTTLE
   - THE AUTOMATED TRADE STATION
   - THE BATHROOM
   - THE BRIDGE
   - THE BRIG
+  - THE CAPTAIN'S ROOM
   - THE EMERGENCY SHUTTLE
   - THE ESCAPE PODS
   - THE GALAXY
@@ -256,6 +261,7 @@
   - THE INTERNET
   - THE KITCHEN
   - THE MAINTENANCE BAR
+  - THE RAGE CAGE
   - THE UNIVERSE
   - URANUS
   - VENUS
@@ -337,6 +343,7 @@
   - ATMOSPHERIC TECHNICIANS
   - BARTENDERS
   - BOTANISTS
+  - BOXERS
   - CAPTAINS
   - CAPTAINS AND HEADS OF STAFF
   - CARGO TECHNICIANS
@@ -362,6 +369,7 @@
   - NON-CREW
   - PARAMEDICS
   - PASSENGERS
+  - PSYCHOLOGISTS
   - QUARTERMASTERS
   - RESEARCH DIRECTORS
   - ROBOTICISTS
@@ -372,6 +380,7 @@
   - STATION ENGINEERS
   # - VIROLOGISTS
   - WARDENS
+  - ZOOKEEPERS
 
 # only including complex dangerous or funny drinks no water allowed
 - type: dataset
@@ -459,6 +468,7 @@
   - BANANAS
   - BANANIUM
   - BIG BITE BURGER
+  - BRAINS
   - CAKE
   - CARP
   - CAT BURGERS
@@ -468,6 +478,7 @@
   - DONK POCKETS
   - FLY AMANITA DISHES
   - HAPPY HONK MEAL
+  - HEARTS
   - HOT SOUP
   - GHOST BURGERS
   - LOTSA SPAGHETTI
@@ -476,6 +487,7 @@
   - PETS
   - PIZZA
   - ROBURGERS
+  - SILK
   - STEEL
   - SUPPERMATTER
   - URANIUM
@@ -603,7 +615,10 @@
   id: IonStormObjects
   values:
   - AIRLOCKS
+  - AIR ALARMS
+  - ANOMALIES
   - ARCADE MACHINES
+  - ARTIFACTS
   - AUTOLATHES
   - BACKPACKS
   - BANANA PEELS
@@ -723,6 +738,7 @@
   - REINFORCED WALLS
   - ROBOTS
   - SCREWDRIVERS
+  - SCRUBBERS
   - SEEDS
   - SHOES
   - SHUTTLES
@@ -735,6 +751,7 @@
   - SPACE STATIONS
   - SPACESUITS
   - SPESOS
+  - STATUES
   - STEEL SHEETS
   - STUN BATONS
   - SUITS
@@ -749,10 +766,12 @@
   - TOOLBOXES
   - TOOLS
   - TOYS
+  - TOPICALS
   - TUBES
-  - VEHICLES
   - VENDING MACHINES
+  - VENTS
   - VITALS
+  - WEAPONS
   - WELDERS
   - WINDOWS
   - WIRECUTTERS
@@ -816,7 +835,7 @@
   - MAJOR CRIME
   - MINOR CRIME
   - MONKEYS
-  - MORE CLOWNSa
+  - MORE CLOWNS
   - MORE CORGIS
   - MORE CREWMEMBERS
   - MORE DAKKA
@@ -940,6 +959,7 @@
   - ALIENS
   - ANARCHISTS AND BANDITS
   - ANOMALIES
+  - ARCADE MACHINES
   - ARTIFICIAL PRESERVATIVES
   - ASSHOLES
   - BANDITS
@@ -983,6 +1003,8 @@
   - PETES
   - PINE TREES
   - PIRATES
+  - PLUSH SHARKS
+  - PLUSHIES
   - PREDATORS
   - RECYCLERS
   - REVENANTS
@@ -990,6 +1012,7 @@
   - ROGUE CYBORGS
   - SERIAL KILLERS
   - SANTA
+  - SHARKS
   - SHIT SECURITY OFFICERS
   - SINGULARITIES
   - SKELETONS
