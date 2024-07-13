@@ -138,4 +138,6 @@
       components:
         - Produce
         - Seed
+      tags:
+        - ClothingHeadHatFlowerWreath
   - type: Dumpable
